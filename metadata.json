@@ -1,0 +1,8 @@
+{
+  "name": "Selah — Psalms Memory Game",
+  "description": "An interactive Bible memorization game for learning and mastering the Book of Psalms through progressive recall challenges.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
